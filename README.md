@@ -36,14 +36,11 @@ Isaac Sim/Lab 기반 강화학습, ROS2 기반 시스템 통합, 로봇 비전·
 
 <div align="center">
 
-**Programming / Core**
+**Programming Language**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 **Robot Middleware / Control**
 
@@ -96,6 +93,16 @@ Isaac Sim/Lab 기반 강화학습, ROS2 기반 시스템 통합, 로봇 비전·
 ![Tool Design](https://img.shields.io/badge/Tool%2FGuide%20Design-555555?style=flat-square)
 ![Mechanism](https://img.shields.io/badge/Mechanism%20Integration-555555?style=flat-square)
 
+**Robot UI / HMI / Visualization**
+
+![Qt Designer](https://img.shields.io/badge/Qt%20Designer-41CD52?style=flat-square&logo=qt&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
+![RViz](https://img.shields.io/badge/RViz-22314E?style=flat-square&logo=ros&logoColor=white)
+
 **Infra / Backend / Data**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -103,8 +110,6 @@ Isaac Sim/Lab 기반 강화학습, ROS2 기반 시스템 통합, 로봇 비전·
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![NVIDIA Container Toolkit](https://img.shields.io/badge/NVIDIA%20Container%20Toolkit-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -113,8 +118,6 @@ Isaac Sim/Lab 기반 강화학습, ROS2 기반 시스템 통합, 로봇 비전·
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Qt Designer](https://img.shields.io/badge/Qt%20Designer-41CD52?style=flat-square&logo=qt&logoColor=white)
-![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![W%26B](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 ![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
