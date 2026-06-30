@@ -82,12 +82,11 @@ Isaac Sim/Lab 기반 강화학습, ROS2 기반 시스템 통합, 로봇 비전·
 
 | Project | What I worked on | Stack |
 |---|---|---|
-| [**Smart Assembly & Transport**](https://github.com/yjmini/smart-assembly-transport) | 음성 명령 기반 작업 오더에서 컨베이어, 비전, Dobot 로봇팔, TurtleBot 배송, 대시보드까지 연결하는 스마트팩토리 통합 시스템을 구성했습니다. | ROS2, Python, OpenCV/YOLO, WebSocket, Vue, Django |
-| [**4족보행 정찰 로봇 시스템**](https://app.notion.com/p/6fbf805009b582279e90010dbc2018ca) | Unitree Go1 기반 정찰 로봇에서 OpenVPN/LTE 원격 ROS 통신망, RTAB-Map 3D Mapping, YOLOv10 객체 인식, GCS 시각화 흐름을 통합했습니다. | Unitree Go1, Jetson Orin NX, RealSense, ROS, RTAB-Map, YOLOv10 |
 | [**유압식 고하중 로봇 RL 제어 가능성 실증**](https://app.notion.com/p/6fbf805009b582279e90010dbc2018ca) | Isaac Lab 환경에서 PPO 기반 정책 학습을 검토하고, observation/action 설계, reward cheating 대응, domain randomization, ROS2 deploy 흐름을 정리했습니다. | Isaac Lab, Isaac Sim, PyTorch, PPO, ROS2, TorchScript |
+| [**강화학습·객체인식 기반 4족보행 정찰 로봇**](https://app.notion.com/p/6fbf805009b582279e90010dbc2018ca) | Unitree Go1 기반 정찰 로봇에서 OpenVPN/LTE 원격 ROS 통신망, RTAB-Map 3D Mapping, YOLOv10 객체 인식, GCS 시각화 흐름을 통합했습니다. | Unitree Go1, Jetson Orin NX, RealSense, ROS, RTAB-Map, YOLOv10 |
+| [**자동 조립 공정 및 무인 배송 시스템**](https://github.com/yjmini/smart-assembly-transport) | 음성 명령 기반 작업 오더에서 컨베이어, 비전, Dobot 로봇팔, TurtleBot 배송, 대시보드까지 연결하는 스마트팩토리 통합 시스템을 구성했습니다. | ROS2, Python, OpenCV/YOLO, WebSocket, Vue, Django |
 | [**ROS2 기반 고하중 로봇 제어 UI 개선**](https://app.notion.com/p/6fbf805009b582279e90010dbc2018ca) | PyQt5 제어 패널에서 ROS2 topic pub/sub 구조를 분석하고, 다중 로봇 전환, 상태 표시, 설정값 유지, 안전 조작 로직을 개선했습니다. | ROS2 Humble, Python, rclpy, PyQt5, Qt Designer |
 | [**YOLO ROS Integration**](https://github.com/yjmini/yolov10_ros) | YOLO 기반 객체 탐지 결과를 ROS 환경에서 활용하기 위한 이미지/탐지 결과 처리 흐름을 실습했습니다. | Python, YOLO, OpenCV, ROS |
-| [**Deep RL Study**](https://github.com/yjmini/RL_HuggingFace) | Hugging Face Deep RL Course 기반으로 PPO, observation/action space, reward 설계를 학습하고 로봇 제어 프로젝트의 기초로 연결했습니다. | Python, Jupyter, Reinforcement Learning |
 
 ---
 
