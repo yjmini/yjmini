@@ -49,8 +49,6 @@ Isaac Sim/Lab 기반 강화학습, ROS2 기반 시스템 통합, 로봇 비전·
 ![rclpy](https://img.shields.io/badge/rclpy-3776AB?style=flat-square)
 ![MoveIt](https://img.shields.io/badge/MoveIt-00A3E0?style=flat-square)
 ![Nav2](https://img.shields.io/badge/Nav2-22314E?style=flat-square&logo=ros&logoColor=white)
-![ROS Topic](https://img.shields.io/badge/Topic%20Pub%2FSub-555555?style=flat-square)
-![colcon](https://img.shields.io/badge/colcon-555555?style=flat-square)
 
 **Simulation / Reinforcement Learning**
 
@@ -60,8 +58,6 @@ Isaac Sim/Lab 기반 강화학습, ROS2 기반 시스템 통합, 로봇 비전·
 ![MuJoCo](https://img.shields.io/badge/MuJoCo-111111?style=flat-square)
 ![RoboDK](https://img.shields.io/badge/RoboDK-1F1F1F?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![PPO](https://img.shields.io/badge/PPO%2FRSL--RL-7B68EE?style=flat-square)
-![TorchScript](https://img.shields.io/badge/TorchScript-EE4C2C?style=flat-square)
 
 **Vision / SLAM / AI**
 
@@ -70,9 +66,7 @@ Isaac Sim/Lab 기반 강화학습, ROS2 기반 시스템 통합, 로봇 비전·
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-111F68?style=flat-square)
 ![RGB-D](https://img.shields.io/badge/RGB--D-0071C5?style=flat-square)
 ![RTAB-Map](https://img.shields.io/badge/RTAB--Map-4B8BBE?style=flat-square)
-![ORB-SLAM3](https://img.shields.io/badge/ORB--SLAM3-4B8BBE?style=flat-square)
 ![Qwen VL](https://img.shields.io/badge/Qwen--VL-7B68EE?style=flat-square)
-![LoRA](https://img.shields.io/badge/LoRA-7B68EE?style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **Embedded / Robot Hardware**
@@ -81,7 +75,6 @@ Isaac Sim/Lab 기반 강화학습, ROS2 기반 시스템 통합, 로봇 비전·
 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Intel RealSense](https://img.shields.io/badge/Intel%20RealSense-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![LattePanda](https://img.shields.io/badge/LattePanda-00A3E0?style=flat-square)
 ![Dobot](https://img.shields.io/badge/Dobot-1F1F1F?style=flat-square)
 ![TurtleBot3](https://img.shields.io/badge/TurtleBot3-22314E?style=flat-square&logo=ros&logoColor=white)
 
@@ -89,9 +82,6 @@ Isaac Sim/Lab 기반 강화학습, ROS2 기반 시스템 통합, 로봇 비전·
 
 ![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-E2231A?style=flat-square)
 ![Onshape](https://img.shields.io/badge/Onshape-1B5FAA?style=flat-square)
-![3D CAD](https://img.shields.io/badge/3D%20CAD-555555?style=flat-square)
-![Tool Design](https://img.shields.io/badge/Tool%2FGuide%20Design-555555?style=flat-square)
-![Mechanism](https://img.shields.io/badge/Mechanism%20Integration-555555?style=flat-square)
 
 **Robot UI / HMI / Visualization**
 
