@@ -159,6 +159,13 @@ Isaac Sim/Lab 기반 강화학습, ROS2 기반 시스템 통합, 로봇 비전·
 ## GitHub Activity
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/yjmini/yjmini/main/assets/github-stats.svg" height="170" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/yjmini/yjmini/main/assets/top-languages.svg" height="170" alt="Top languages" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/yjmini/yjmini/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake" />
 </div>
 
