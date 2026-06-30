@@ -2,7 +2,7 @@
 
 <!-- profile-readme -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Yoon%20Jungmin&fontSize=48&fontColor=ffffff&fontAlign=50&desc=Robot%20Software%20Engineer&descSize=18&descAlign=50&descAlignY=72" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Yoon%20Jeongmin&fontSize=48&fontColor=ffffff&fontAlign=50&desc=Robot%20Software%20Engineer&descSize=18&descAlign=50&descAlignY=72" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1000&color=50E3C2&center=true&vCenter=true&width=720&lines=ROS2+%C2%B7+Robot+Software;Isaac+Sim%2FLab+%C2%B7+Reinforcement+Learning;Robot+Vision+%C2%B7+SLAM+%C2%B7+Embedded+Robotics;Connecting+AI%2C+Sensors%2C+Control+and+Real+Robots" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 <br/>
 
 **실제 로봇 하드웨어와 시뮬레이션/RL을 연결하는 로봇 SW 개발자 윤정민입니다.**  
-ROS2 기반 시스템 통합, 로봇 비전·센서·제어 파이프라인, Isaac Sim/Lab 기반 강화학습 실험에 관심이 있습니다.
+Isaac Sim/Lab 기반 강화학습, ROS2 기반 시스템 통합, 로봇 비전·센서·제어 파이프라인에 관심이 있습니다.
 
 <br/>
 
@@ -25,9 +25,9 @@ ROS2 기반 시스템 통합, 로봇 비전·센서·제어 파이프라인, Isa
 
 ## About
 
-- 한국기술교육대학교 컴퓨터공학부 졸업예정, **C++/Python 기반 로봇 SW 직무**를 목표로 하고 있습니다.
-- SSAFY 15기 **임베디드 로봇 트랙**에서 ROS2, 센서 제어, 로봇 비전, 시스템 통합을 실습하고 있습니다.
-- KAERI 로봇응용연구실 현장실습에서 **고하중 로봇 제어 UI, MoveIt 기반 자동화 시퀀스, Isaac Lab 기반 RL 제어 가능성 검토**를 수행했습니다.
+- 한국기술교육대학교 컴퓨터공학부 졸업, **C++/Python 기반 로봇 SW 직무**를 목표로 하고 있습니다.
+- SSAFY 15기 **임베디드 로봇 트랙**에서 ROS2, 센서 제어, 로봇 비전, 시스템 통합을 학습하고 있습니다.
+- KAERI 로봇응용연구실 인턴연구원으로서 **유압 로봇의 RL 제어 가능성 검증, 고하중 로봇 제어 UI 개선, MoveIt 기반 자동화 시퀀스 개발**을 수행했습니다.
 - 관심 분야는 **휴머노이드/4족보행 로봇, Isaac Sim/Lab, 강화학습 제어, ROS2 시스템 통합, AI 모델의 로봇 적용**입니다.
 
 ---
@@ -96,7 +96,7 @@ ROS2 기반 시스템 통합, 로봇 비전·센서·제어 파이프라인, Isa
 | Period | Experience | Focus |
 |---|---|---|
 | 2026.01 - | 삼성 청년 SW·AI 아카데미 15기 임베디드 로봇 트랙 | ROS2, 센서 제어, 로봇 비전, 임베디드 시스템 |
-| 2025.06 - 2025.12 | 한국원자력연구원 로봇응용연구실 현장실습 | 고하중 로봇 제어 UI, MoveIt 자동화, Isaac Lab RL 실험 |
+| 2025.06 - 2025.12 | 한국원자력연구원 로봇응용연구실 인턴연구원 | Isaac Lab RL 실험, 고하중 로봇 제어 UI, MoveIt 자동화 |
 | 2025.01 - 2025.05 | 강화학습·객체인식 기반 4족보행 정찰 로봇 | 원격 ROS 통신, SLAM, YOLO, GCS 통합 |
 | 2024.12 - 2025.02 | 심층강화학습 윈터스쿨 | PPO, reward 설계, Deep RL 발표 |
 
@@ -104,9 +104,10 @@ ROS2 기반 시스템 통합, 로봇 비전·센서·제어 파이프라인, Isa
 
 ## Awards / Certifications
 
-- 졸업연구작품 우수상 — 4족보행 정찰 로봇 시스템
+- 졸업연구작품 우수상
 - AI Festa 경진대회 우수상
 - 충청권 AI 전문가 멘토링 최우수상
+- 정보처리기사
 - SQLD, ADsP
 
 ---
@@ -126,7 +127,6 @@ ROS2 기반 시스템 통합, 로봇 비전·센서·제어 파이프라인, Isa
 
 ## Now Studying
 
-- ROS2 C++ node 구조와 실제 로봇 드라이버 연동 방식
 - Isaac Sim/Lab 기반 locomotion, sim-to-real, humanoid/legged robot RL
 - SLAM/Nav2, RGB-D perception, robot vision-to-control pipeline
 - 로봇 시스템에서 네트워크·센서·제어·UI를 함께 검증하는 방법
