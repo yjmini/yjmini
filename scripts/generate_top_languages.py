@@ -20,7 +20,7 @@ from collections import Counter
 from pathlib import Path
 
 OWNER = "yjmini"
-EXCLUDE_REPOS = {"deepLearning24-2", "DL_24_2", "DL24-2", "RL_HuggingFace"}
+EXCLUDE_REPOS = {"yjmini", "deepLearning24-2", "DL_24_2", "DL24-2", "RL_HuggingFace"}
 TOP_N = 5
 SIZE_WEIGHT = 0.5
 COUNT_WEIGHT = 0.5
