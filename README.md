@@ -153,7 +153,7 @@ Isaac Sim/Lab 기반 강화학습, ROS2 기반 시스템 통합, 로봇 비전·
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yjmini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yjmini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="170" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/yjmini/yjmini/main/assets/top-languages.svg" height="170" alt="Top languages" />
 </div>
 
 <br/>
