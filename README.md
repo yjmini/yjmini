@@ -120,6 +120,7 @@ Isaac Sim/Lab 기반 강화학습, ROS2 기반 시스템 통합, 로봇 비전·
 
 | Project | What I worked on | Stack |
 |---|---|---|
+| [**THING — 사람의 움직임을 로봇 데이터로 바꾸는 7축 텐던 로봇 손**](https://app.notion.com/p/6fbf805009b582279e90010dbc2018ca) | MediaPipe의 21개 손 landmark를 7축 명령으로 변환해 실제 로봇 손이 모방하고, 동작 데이터를 Session ID 단위로 기록하는 ROS2 시스템을 팀으로 개발했습니다. **Command Manager·Command Guard·8상태 Safety Manager·Manual Executor·GPIO E-Stop의 5개 노드**를 직접 구현하고 Motor Driver 앞단의 fail-closed 제어·안전 파이프라인으로 통합했습니다. 17개 테스트 파일과 STOP·제어권 획득 경합 2,000회에서 실패 0건을 확인했습니다. | ROS2 Humble, Python, C++, DYNAMIXEL, Jetson Orin Nano, Raspberry Pi 5, MediaPipe |
 | [**유압식 고하중 로봇 RL 제어 가능성 실증**](https://app.notion.com/p/6fbf805009b582279e90010dbc2018ca) | Isaac Lab 환경에서 PPO 기반 정책 학습을 검토하고, observation/action 설계, reward cheating 대응, domain randomization, ROS2 deploy 흐름을 정리했습니다. | Isaac Lab, Isaac Sim, PyTorch, PPO, ROS2, TorchScript |
 | [**강화학습·객체인식 기반 4족보행 정찰 로봇**](https://app.notion.com/p/6fbf805009b582279e90010dbc2018ca) | Unitree Go1 기반 정찰 로봇에서 OpenVPN/LTE 원격 ROS 통신망, RTAB-Map 3D Mapping, YOLOv10 객체 인식, GCS 시각화 흐름을 통합했습니다. | Unitree Go1, Jetson Orin NX, RealSense, ROS, RTAB-Map, YOLOv10 |
 | [**고위험 작업 자동화를 위한 로봇 공정 제어 및 기구 개발**](https://app.notion.com/p/6fbf805009b582279e90010dbc2018ca) | 고위험 수작업 공정을 고하중 로봇 기반 정밀 결합 자동화 공정으로 전환하기 위해 MoveIt 기반 접근·삽입·후퇴 시퀀스를 구성하고, 전용 가이드/툴 마운팅 구조를 반복 개선했습니다. | ROS2 Humble, MoveIt, Python, SolidWorks, 3D 설계/툴링 |
@@ -153,7 +154,7 @@ Isaac Sim/Lab 기반 강화학습, ROS2 기반 시스템 통합, 로봇 비전·
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yjmini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yjmini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" height="170" alt="GitHub stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yjmini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=5&exclude_repo=deepLearning24-2,DL_24_2,DL24-2,RL_HuggingFace&size_weight=0.5&count_weight=0.5&cache_seconds=60" height="170" alt="Top languages" />
 </div>
 
