@@ -165,6 +165,18 @@ Isaac Sim/Lab 기반 강화학습, ROS2 기반 시스템 통합, 로봇 비전·
 
 ---
 
+## AI Tool Usage
+
+<div align="center">
+  <a href="https://github.com/TOKENPHAGE">
+    <img src="https://api.tokenphage.com/badge/yjmini?theme=gpu&mode=dark" width="540" alt="TokenPhage AI token usage badge" />
+  </a>
+  <br/>
+  <sub>Hermes Agent와 Claude Code · Codex · opencode의 로컬 토큰 수치만 집계하며, 프롬프트·코드·파일 내용은 전송하지 않습니다.</sub>
+</div>
+
+---
+
 ## Now Studying
 
 - Isaac Sim/Lab 기반 locomotion, sim-to-real, humanoid/legged robot RL
