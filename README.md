@@ -65,8 +65,8 @@ Isaac Sim/Lab 기반 강화학습, ROS2 기반 시스템 통합, 로봇 비전·
 **Vision / SLAM / AI**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-%23111F68.svg?style=for-the-badge&logo=yolo&logoColor=white)
-![Roboflow](https://img.shields.io/badge/roboflow-%23EE4C2C.svg?style=for-the-badge&logo=roboflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-%23111F68.svg?style=flat-square&logo=yolo&logoColor=white)
+![Roboflow](https://img.shields.io/badge/roboflow-%23EE4C2C.svg?style=flat-square&logo=roboflow&logoColor=white)
 ![RTAB-Map](https://img.shields.io/badge/RTAB--Map-4B8BBE?style=flat-square)
 ![Qwen VL](https://img.shields.io/badge/Qwen--VL-7B68EE?style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
@@ -109,11 +109,11 @@ Isaac Sim/Lab 기반 강화학습, ROS2 기반 시스템 통합, 로봇 비전·
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
 ![W%26B](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 ![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 
 </div>
 
