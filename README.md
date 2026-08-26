@@ -144,16 +144,30 @@ Isaac Sim/Lab 기반 강화학습, ROS2 기반 시스템 통합, 로봇 비전·
 
 ---
 
-## Awards / Certifications
+## Awards & Certifications
 
-- 삼성 청년 SW·AI 아카데미 공통프로젝트 우수상(1등)
-- 졸업연구작품 우수상
-- AI Festa 경진대회 우수상
-- 충청권 AI 전문가 멘토링 최우수상
-- 정보처리기사
-- TOEIC Speaking IH
-- SQLD
-- ADsP
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏆 Awards</h3>
+      <ul>
+        <li>삼성 청년 SW·AI 아카데미 공통프로젝트 우수상(1등)</li>
+        <li>졸업연구작품 우수상</li>
+        <li>AI Festa 경진대회 우수상</li>
+        <li>충청권 AI 전문가 멘토링 최우수상</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📜 Certifications</h3>
+      <ul>
+        <li>정보처리기사</li>
+        <li>TOEIC Speaking IH</li>
+        <li>SQLD</li>
+        <li>ADsP</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
