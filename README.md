@@ -146,7 +146,7 @@ Isaac Sim/Lab 기반 강화학습, ROS2 기반 시스템 통합, 로봇 비전·
 
 ## Awards & Certifications
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🏆 Awards</h3>
